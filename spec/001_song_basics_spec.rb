@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe "Song" do
+describe "Song=" do
   let(:song) { Song.new("In the Aeroplane Over the Sea") }
 
   describe "#initialize" do
